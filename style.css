@@ -1,0 +1,18 @@
+nav {
+    list-style-type: initial;
+    margin: 0;
+    padding: 0;
+    overflow: inherit;
+    background-color: #333;
+}
+
+
+.home {
+    font-size: 15px;
+    text-align: center;
+    border-style: groove;
+}
+
+.kursen-2 {
+    text-align: left;
+}
